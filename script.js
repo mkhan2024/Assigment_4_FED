@@ -33,4 +33,3 @@ document.getElementById('survey-form').addEventListener('submit', function(event
     const error = input.nextElementSibling;
     error.textContent = '';
   }
-  
